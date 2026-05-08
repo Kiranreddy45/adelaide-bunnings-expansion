@@ -1,0 +1,113 @@
+SA2_CODE_2021,SA2_NAME_2021,SA3_NAME,median_age,weekly_personal_income,weekly_household_income,weekly_rent,avg_household_size,population,bunnings_count
+401011001,Adelaide,Adelaide City,31,726,1365,400,1.8,18202,0
+401011002,North Adelaide,Adelaide City,39,964,1867,390,1.9,6823,0
+401021003,Adelaide Hills,Adelaide Hills,47,792,1905,300,2.7,7051,0
+401021004,Aldgate - Stirling,Adelaide Hills,44,993,2297,410,2.7,18208,0
+401021005,Hahndorf - Echunga,Adelaide Hills,48,804,1926,345,2.6,4726,0
+401021006,Lobethal - Woodside,Adelaide Hills,44,795,1691,320,2.5,9448,0
+401021007,Mount Barker,Adelaide Hills,37,825,1698,350,2.5,22113,1
+401021008,Mount Barker Surrounds,Adelaide Hills,43,820,1784,305,2.6,6825,0
+401021009,Nairne,Adelaide Hills,36,859,1776,350,2.6,5327,0
+401021010,Uraidla - Summertown,Adelaide Hills,43,903,2181,400,2.7,6042,0
+401031011,Burnside - Wattle Park,Burnside,44,957,2086,360,2.5,19066,0
+401031012,Beaumont - Glen Osmond,Burnside,43,984,2326,420,2.7,10328,0
+401031013,Toorak Gardens,Burnside,44,977,1929,339,2.3,16635,0
+401041014,Athelstone,Campbelltown (SA),43,829,1941,360,2.7,9601,0
+401041015,Paradise - Newton,Campbelltown (SA),40,721,1427,335,2.4,21601,0
+401041016,Rostrevor - Magill,Campbelltown (SA),40,772,1644,350,2.5,23968,0
+401051017,Norwood (SA),Norwood - Payneham - St Peters,40,933,1653,360,2.0,10849,1
+401051018,Payneham - Felixstow,Norwood - Payneham - St Peters,41,770,1476,330,2.3,13122,0
+401051019,St Peters - Marden,Norwood - Payneham - St Peters,41,954,1879,320,2.3,13515,0
+401061020,Nailsworth - Broadview,Prospect - Walkerville,38,967,1967,320,2.5,6484,0
+401061021,Prospect,Prospect - Walkerville,37,962,2019,350,2.5,15785,1
+401061022,Walkerville,Prospect - Walkerville,45,1001,2052,380,2.3,8023,0
+401071023,Goodwood - Millswood,Unley,42,999,2001,340,2.3,17650,0
+401071024,Unley - Parkside,Unley,44,968,1998,370,2.3,20998,0
+402011025,Gawler - North,Gawler - Two Wells,40,800,1770,310,2.7,9545,0
+402011026,Gawler - South,Gawler - Two Wells,42,697,1336,285,2.4,21662,1
+402011027,Lewiston - Two Wells,Gawler - Two Wells,38,791,1908,300,2.9,6505,0
+402021028,Craigmore - Blakeview,Playford,34,756,1600,310,2.8,19920,0
+402021029,Davoren Park,Playford,30,599,1161,270,2.7,18313,0
+402021030,Elizabeth,Playford,36,460,827,225,2.4,10829,0
+402021031,Elizabeth East,Playford,36,579,1188,251,2.6,14047,0
+402021032,Munno Para West - Angle Vale,Playford,29,827,1653,310,2.8,16215,1
+402021033,One Tree Hill,Playford,47,843,2277,300,2.9,2473,0
+402021034,Smithfield - Elizabeth North,Playford,35,492,939,245,2.4,12446,0
+402021035,Virginia - Waterloo Corner,Playford,38,709,1387,300,2.5,5693,0
+402031036,Enfield - Blair Athol,Port Adelaide - East,34,674,1428,300,2.6,25578,0
+402031038,Windsor Gardens,Port Adelaide - East,35,778,1595,310,2.5,22587,1
+402031175,Northgate - Northfield,Port Adelaide - East,35,824,1759,360,2.5,18188,0
+402031176,Valley View - Gilles Plains,Port Adelaide - East,38,690,1469,320,2.6,10504,0
+402041039,Dry Creek - North,Salisbury,0,0,0,0,0.0,0,0
+402041040,Ingle Farm,Salisbury,40,651,1344,310,2.5,15681,0
+402041041,Para Hills,Salisbury,38,697,1444,310,2.6,15094,0
+402041042,Parafield,Salisbury,22,274,0,0,0.0,21,1
+402041043,Parafield Gardens,Salisbury,36,585,1384,300,2.9,18467,0
+402041044,Paralowie,Salisbury,35,675,1458,300,2.8,17816,0
+402041046,Salisbury,Salisbury,37,530,1071,270,2.5,18594,0
+402041047,Salisbury East,Salisbury,40,655,1339,295,2.6,18454,0
+402041048,Salisbury North,Salisbury,34,616,1255,280,2.7,18487,0
+402041171,Mawson Lakes - Globe Derby Park,Salisbury,33,896,1913,360,2.6,13855,0
+402041172,Pooraka - Cavan,Salisbury,38,598,1263,300,2.5,8080,0
+402051049,Golden Grove,Tea Tree Gully,44,795,1674,320,2.5,10406,0
+402051050,Greenwith,Tea Tree Gully,40,868,1937,320,2.7,9017,0
+402051051,Highbury - Dernancourt,Tea Tree Gully,42,836,1920,375,2.7,11048,0
+402051052,Hope Valley - Modbury,Tea Tree Gully,41,678,1314,315,2.3,17496,1
+402051053,Modbury Heights,Tea Tree Gully,41,787,1657,330,2.6,19248,0
+402051054,Redwood Park,Tea Tree Gully,40,834,1818,350,2.6,16276,0
+402051055,St Agnes - Ridgehaven,Tea Tree Gully,43,749,1492,330,2.4,13161,0
+403011056,Brighton (SA),Holdfast Bay,48,836,1673,350,2.3,15191,0
+403011057,Glenelg (SA),Holdfast Bay,48,925,1562,330,2.1,20522,0
+403021058,Edwardstown,Marion,36,783,1452,310,2.3,14563,1
+403021059,Hallett Cove,Marion,43,840,1876,380,2.6,12609,0
+403021060,Marino - Seaview Downs,Marion,43,844,1821,375,2.6,9703,0
+403021061,Mitchell Park,Marion,37,668,1307,310,2.3,16516,0
+403021062,Morphettville,Marion,39,787,1554,320,2.3,16531,0
+403021063,Sheidow Park - Trott Park,Marion,38,861,1922,365,2.8,10211,0
+403021064,Warradale,Marion,39,746,1421,345,2.2,16190,1
+403031065,Belair,Mitcham,47,978,2273,369,2.6,4896,0
+403031066,Bellevue Heights,Mitcham,40,698,1764,330,2.6,7608,0
+403031067,Blackwood,Mitcham,43,954,2114,370,2.7,12963,0
+403031068,Colonel Light Gardens,Mitcham,40,910,2006,320,2.6,15842,0
+403031069,Mitcham (SA),Mitcham,44,986,2203,346,2.6,16506,0
+403031070,Panorama,Mitcham,41,759,1518,310,2.4,8475,0
+403041071,Aberfoyle Park,Onkaparinga,43,793,1807,340,2.6,11911,0
+403041072,Aldinga,Onkaparinga,40,674,1317,320,2.5,15923,0
+403041073,Christie Downs,Onkaparinga,40,554,995,250,2.2,9475,0
+403041074,Christies Beach,Onkaparinga,42,656,1220,320,2.2,11050,1
+403041075,Clarendon,Onkaparinga,48,831,2020,290,2.7,2729,0
+403041076,Coromandel Valley,Onkaparinga,41,978,2233,420,2.8,4469,0
+403041077,Flagstaff Hill,Onkaparinga,42,837,2045,375,2.7,10784,0
+403041078,Hackham - Onkaparinga Hills,Onkaparinga,41,668,1355,300,2.5,6875,0
+403041079,Hackham West - Huntfield Heights,Onkaparinga,38,558,1080,262,2.4,7818,0
+403041080,Happy Valley,Onkaparinga,42,778,1568,355,2.5,13864,0
+403041081,Happy Valley Reservoir,Onkaparinga,67,774,1375,0,2.0,0,0
+403041082,Lonsdale,Onkaparinga,48,550,725,190,1.6,23,0
+403041083,McLaren Vale,Onkaparinga,45,776,1638,350,2.5,7344,0
+403041084,Morphett Vale - East,Onkaparinga,42,661,1228,300,2.3,13863,0
+403041085,Morphett Vale - West,Onkaparinga,39,612,1163,295,2.3,10138,0
+403041086,Reynella,Onkaparinga,40,704,1334,325,2.4,10286,1
+403041088,Willunga,Onkaparinga,48,769,1755,320,2.6,3604,0
+403041089,Woodcroft,Onkaparinga,42,773,1672,350,2.6,11552,0
+403041177,Seaford - Seaford Meadows,Onkaparinga,37,755,1466,350,2.5,14177,1
+403041178,Seaford Rise - Moana,Onkaparinga,40,738,1521,320,2.6,10629,0
+404011090,Beverley,Charles Sturt,36,847,1695,330,2.4,8897,0
+404011091,Flinders Park,Charles Sturt,39,759,1563,340,2.4,16361,0
+404011092,Henley Beach,Charles Sturt,44,886,1786,350,2.4,15634,0
+404011093,Hindmarsh - Brompton,Charles Sturt,37,818,1631,340,2.3,19076,0
+404011094,Royal Park - Hendon - Albert Park,Charles Sturt,38,738,1427,314,2.3,6499,0
+404011095,Seaton - Grange,Charles Sturt,43,747,1425,320,2.3,17501,0
+404011096,West Lakes,Charles Sturt,51,771,1506,320,2.2,15205,0
+404011097,Woodville - Cheltenham,Charles Sturt,37,726,1491,310,2.5,19269,1
+404021098,Dry Creek - South,Port Adelaide - West,0,0,0,0,0.0,0,0
+404021099,Largs Bay - Semaphore,Port Adelaide - West,45,858,1584,320,2.2,14807,0
+404021100,North Haven,Port Adelaide - West,44,720,1414,300,2.3,14800,0
+404021101,Port Adelaide,Port Adelaide - West,41,671,1247,275,2.2,11589,0
+404021102,The Parks,Port Adelaide - West,36,566,1297,270,2.6,19645,0
+404021103,Torrens Island,Port Adelaide - West,64,450,749,0,1.3,4,0
+404031104,Adelaide Airport,West Torrens,51,3250,0,0,0.0,4,1
+404031105,Fulham,West Torrens,44,812,1753,315,2.5,2920,0
+404031106,Lockleys,West Torrens,40,827,1635,300,2.4,13452,0
+404031107,Plympton,West Torrens,36,794,1551,300,2.3,26480,0
+404031108,Richmond (SA),West Torrens,37,774,1555,325,2.3,17022,1
+404031109,West Beach,West Torrens,45,896,1746,320,2.4,5175,0

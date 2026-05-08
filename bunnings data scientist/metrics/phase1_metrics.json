@@ -1,0 +1,39 @@
+{
+  "phase": 1,
+  "model": "Logistic Regression (Adelaide only, 6 basic features)",
+  "training_size": 84,
+  "training_positives": 11,
+  "test_size": 21,
+  "test_positives": 3,
+  "baseline_auc": 0.5,
+  "logistic_regression_auc": 0.889,
+  "reduced_model_auc_after_multicollinearity_fix": 0.796,
+  "top_5_recommendations": [
+    "Adelaide (CBD)",
+    "Plympton",
+    "North Adelaide",
+    "Hindmarsh - Brompton",
+    "Enfield - Blair Athol"
+  ],
+  "feature_coefficients": {
+    "population": 0.671,
+    "weekly_personal_income": 0.606,
+    "weekly_rent": 0.345,
+    "avg_household_size": -0.838,
+    "median_age": -0.881,
+    "weekly_household_income": -0.97
+  },
+  "intercept": -0.88,
+  "limitations": [
+    "Only 14 positive training examples \u2014 statistically underpowered",
+    "Multicollinearity between income features (0.90 correlation)",
+    "Test set has only 3 positives \u2014 high variance in metrics",
+    "Adelaide-only \u2014 Phase 0 will expand to national data"
+  ],
+  "next_steps": [
+    "Phase 0: pull national ABS Census data + ~250 Bunnings stores",
+    "Phase 2: feature engineering (SEIFA, distance, competitor data)",
+    "Phase 3: train tree-based models (RF, XGBoost) for comparison",
+    "Phase 4: validate via leave-one-region-out cross-validation"
+  ]
+}
