@@ -127,7 +127,7 @@ Domain features outperformed auto-selected features for tree-based models, demon
 - **Static snapshot**: All data is from 2021 Census. Market conditions may have changed.
 
 ## Technical Setup
-- Python 3.11, Anaconda/Jupyter
+- Python 3.11, Jupyter
 - Key libraries: pandas, sklearn, xgboost, geopandas, geopy
 - Data sources: ABS Census 2021 (General Community Profile, Time Series Profile, SEIFA), ABS ASGS 2021 digital boundaries
 - Platform: Windows, MS SQL Server, Power BI Desktop
