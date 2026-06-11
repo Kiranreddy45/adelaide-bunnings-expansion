@@ -1,0 +1,313 @@
+store_name,latitude,longitude,sa2_code,sa2_name,sa3_name,sa4_name,state
+Belconnen,-35.2447373,149.0640722,801011002,Belconnen,Belconnen,Australian Capital Territory,Australian Capital Territory
+Canberra Airport,-35.2934008,149.1912931,801031114,Canberra Airport,Canberra East,Australian Capital Territory,Australian Capital Territory
+Fyshwick,-35.3311369,149.1789364,801061130,Fyshwick,South Canberra,Australian Capital Territory,Australian Capital Territory
+Gungahlin,-35.2091928,149.1401112,801041045,Mitchell,Gungahlin,Australian Capital Territory,Australian Capital Territory
+Tuggeranong,-35.421767,149.0710278,801071080,Greenway,Tuggeranong,Australian Capital Territory,Australian Capital Territory
+Albury,-36.0740777,146.9494771,109011172,Albury - East,Albury,Murray,New South Wales
+Alexandria,-33.9057506,151.1936432,117031330,Erskineville - Alexandria,Sydney Inner City,Sydney - City and Inner South,New South Wales
+Armidale,-30.5220581,151.680142,110011186,Armidale,Armidale,New England and North West,New South Wales
+Artarmon,-33.8164687,151.1881398,121011401,St Leonards - Naremburn,Chatswood - Lane Cove,Sydney - North Sydney and Hornsby,New South Wales
+Ashfield,-33.8778064,151.1297911,120031676,Ashfield - North,Strathfield - Burwood - Ashfield,Sydney - Inner West,New South Wales
+Balgowlah,-33.7898654,151.2665374,122011418,Balgowlah - Clontarf - Seaforth,Manly,Sydney - Northern Beaches,New South Wales
+Ballina,-28.8634352,153.5315313,112011236,Ballina,Richmond Valley - Coastal,Richmond - Tweed,New South Wales
+Bankstown Airport,-33.9294,150.9944,119011356,Condell Park,Bankstown,Sydney - Inner South West,New South Wales
+Batemans Bay,-35.7187735,150.174752,101041017,Batemans Bay,South Coast,Capital Region,New South Wales
+Bathurst,-33.4196428,149.603161,103011059,Bathurst - East,Bathurst,Central West,New South Wales
+Bellambi,-34.3609277,150.9097425,107041150,Woonona - Bulli - Russell Vale,Wollongong,Illawarra,New South Wales
+Belrose,-33.7025531,151.2113212,122031692,Belrose,Warringah,Sydney - Northern Beaches,New South Wales
+Bennetts Green,-32.9973578,151.684913,111011206,Belmont - Bennetts Green,Lake Macquarie - East,Newcastle and Lake Macquarie,New South Wales
+Blacktown,-33.7991468,150.898181,116011626,Seven Hills - Prospect,Blacktown,Sydney - Blacktown,New South Wales
+Bonnyrigg,-33.8893395,150.8850108,127021509,Bonnyrigg Heights - Bonnyrigg,Fairfield,Sydney - South West,New South Wales
+Byron Bay,-28.6372267,153.5825023,112011240,Byron Bay,Richmond Valley - Coastal,Richmond - Tweed,New South Wales
+Campbelltown,-34.0636125,150.8085388,123021437,Campbelltown - Woodbine,Campbelltown (NSW),Sydney - Outer South West,New South Wales
+Caringbah,-34.027946,151.1219055,128011602,Caringbah,Cronulla - Miranda - Caringbah,Sydney - Sutherland,New South Wales
+Carlingford,-33.779051,151.0514615,125021712,Carlingford - West,Carlingford,Sydney - Parramatta,New South Wales
+Castle Hill,-33.7282514,150.9772334,115011553,Castle Hill - Central,Baulkham Hills,Sydney - Baulkham Hills and Hawkesbury,New South Wales
+Cessnock,-32.8422606,151.353641,106011108,Cessnock,Lower Hunter,Hunter Valley exc Newcastle,New South Wales
+Chatswood,-33.7857446,151.199219,121011684,Chatswood - East,Chatswood - Lane Cove,Sydney - North Sydney and Hornsby,New South Wales
+Coffs Harbour,-30.3137387,153.0946499,104021085,Coffs Harbour - South,Coffs Harbour,Coffs Harbour - Grafton,New South Wales
+Cowra,-33.8272,148.6833,103021063,Cowra,Lachlan Valley,Central West,New South Wales
+Dubbo,-32.2614546,148.6470827,105031101,Dubbo - South,Dubbo,Far West and Orana,New South Wales
+Dural,-33.7027009,151.0284475,115021297,Dural - Kenthurst - Wisemans Ferry,Dural - Wisemans Ferry,Sydney - Baulkham Hills and Hawkesbury,New South Wales
+Eastgardens,-33.94916,151.224651,117011323,Pagewood - Hillsdale - Daceyville,Botany,Sydney - City and Inner South,New South Wales
+Erina North,-33.4343,151.3776,102011032,Gosford - Springfield,Gosford,Central Coast,New South Wales
+Forbes,-33.3706939,148.0172792,103021065,Forbes,Lachlan Valley,Central West,New South Wales
+Forster,-32.1985969,152.5177426,108011152,Forster,Great Lakes,Mid North Coast,New South Wales
+Frenchs Forest,-33.7530619,151.2444259,122031696,Frenchs Forest - Oxford Falls,Warringah,Sydney - Northern Beaches,New South Wales
+Gladesville,-33.8208029,151.1210991,126021498,Gladesville - Huntleys Point,Ryde - Hunters Hill,Sydney - Ryde,New South Wales
+Glendale,-32.9437,151.6255,111011214,Warners Bay - Boolaroo,Lake Macquarie - East,Newcastle and Lake Macquarie,New South Wales
+Goulburn,-34.772665,149.6885785,101051539,Goulburn,Goulburn - Mulwaree,Capital Region,New South Wales
+Grafton,-29.7058836,152.9441744,104011080,Grafton,Clarence Valley,Coffs Harbour - Grafton,New South Wales
+Greenacre,-33.9012514,151.066317,119011655,Greenacre - North,Bankstown,Sydney - Inner South West,New South Wales
+Gregory Hills,-34.0235759,150.7607286,127011727,Gledswood Hills - Gregory Hills,Bringelly - Green Valley,Sydney - South West,New South Wales
+Griffith,-34.3027835,146.0473248,113011256,Griffith (NSW),Griffith - Murrumbidgee (West),Riverina,New South Wales
+Heatherbrae,-32.7930629,151.7250468,106031122,Raymond Terrace,Port Stephens,Hunter Valley exc Newcastle,New South Wales
+Hoxton Park,-33.9285926,150.8893291,127031733,Prestons,Liverpool,Sydney - South West,New South Wales
+Inverell,-29.7694531,151.1208324,110021191,Inverell,Inverell - Tenterfield,New England and North West,New South Wales
+Katoomba,-33.7125948,150.3203968,124011452,Katoomba - Leura,Blue Mountains,Sydney - Outer West and Blue Mountains,New South Wales
+Kembla Grange,-34.4701609,150.8287897,107011134,Unanderra - Mount Kembla,Dapto - Port Kembla,Illawarra,New South Wales
+Kempsey,-31.0734094,152.8453978,108021155,Kempsey,Kempsey - Nambucca,Mid North Coast,New South Wales
+Kingsgrove,-33.9349447,151.0989497,119021663,Kingsgrove - North,Canterbury,Sydney - Inner South West,New South Wales
+Kirrawee,-34.0306221,151.0754222,128021538,Sutherland - Kirrawee,Sutherland - Menai - Heathcote,Sydney - Sutherland,New South Wales
+Kotara,-32.9392297,151.7102004,111031222,Adamstown - Kotara,Newcastle,Newcastle and Lake Macquarie,New South Wales
+Lake Haven,-33.2389,151.4974,102021056,Warnervale - Wadalba,Wyong,Central Coast,New South Wales
+Leppington,-33.949,150.8327,127011597,West Hoxton - Middleton Grange,Bringelly - Green Valley,Sydney - South West,New South Wales
+Lidcombe,-33.8467827,151.048035,125011586,Lidcombe,Auburn,Sydney - Parramatta,New South Wales
+Lismore,-28.823255,153.2664319,112021248,Lismore,Richmond Valley - Hinterland,Richmond - Tweed,New South Wales
+Lithgow,-33.4840367,150.1449962,103031070,Lithgow,Lithgow - Mudgee,Central West,New South Wales
+Maitland,-32.72527,151.5409579,106021114,Maitland,Maitland,Hunter Valley exc Newcastle,New South Wales
+Marsden Park,-33.7169995,150.8420235,116021629,Marsden Park - Shanes Park,Blacktown - North,Sydney - Blacktown,New South Wales
+McGraths Hill,-33.627452,150.84062,115041301,Pitt Town - McGraths Hill,Rouse Hill - McGraths Hill,Sydney - Baulkham Hills and Hawkesbury,New South Wales
+Minchinbury,-33.7793424,150.8102881,116031319,Rooty Hill - Minchinbury,Mount Druitt,Sydney - Blacktown,New South Wales
+Mittagong,-34.4286,150.4882,114021286,Mittagong,Southern Highlands,Southern Highlands and Shoalhaven,New South Wales
+Morisset,-33.1195178,151.4701515,111021218,Morisset - Cooranbong,Lake Macquarie - West,Newcastle and Lake Macquarie,New South Wales
+Mudgee,-32.6125,149.6058,103031072,Mudgee,Lithgow - Mudgee,Central West,New South Wales
+Narellan,-34.034696,150.7299914,123011699,Elderslie - Narellan,Camden,Sydney - Outer South West,New South Wales
+Narrabeen,-33.7193344,151.2973302,122031697,Narrabeen - Wheeler Heights,Warringah,Sydney - Northern Beaches,New South Wales
+Narrabri,-30.3072651,149.7821325,110031197,Narrabri,Moree - Narrabri,New England and North West,New South Wales
+Northmead,-33.7971132,150.9899714,125041491,Northmead,Parramatta,Sydney - Parramatta,New South Wales
+North Penrith,-33.7439,150.69,124031464,Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales
+Nowra,-34.9108605,150.6022481,114011278,Nowra,Shoalhaven,Southern Highlands and Shoalhaven,New South Wales
+Orange,-33.2577396,149.1116883,103041078,Orange - North,Orange,Central West,New South Wales
+Padstow,-33.9420976,151.0367608,119011358,Padstow,Bankstown,Sydney - Inner South West,New South Wales
+Penrith,-33.7435888,150.6895911,124031464,Penrith,Penrith,Sydney - Outer West and Blue Mountains,New South Wales
+Port Macquarie,-31.4542225,152.872867,108041164,Port Macquarie - West,Port Macquarie,Mid North Coast,New South Wales
+Port Stephens,-32.7489022,152.0703421,106031121,Nelson Bay Peninsula,Port Stephens,Hunter Valley exc Newcastle,New South Wales
+Pymble,-33.7503662,151.1461177,121031409,Pymble,Ku-ring-gai,Sydney - North Sydney and Hornsby,New South Wales
+Randwick,-33.9084036,151.2486064,118021569,Randwick - North,Eastern Suburbs - South,Sydney - Eastern Suburbs,New South Wales
+Rockdale,-33.9579003,151.14488,119041381,Rockdale - Banksia,Kogarah - Rockdale,Sydney - Inner South West,New South Wales
+Rose Bay,-33.8725461,151.2739754,118011346,Rose Bay - Vaucluse - Watsons Bay,Eastern Suburbs - North,Sydney - Eastern Suburbs,New South Wales
+Rouse Hill,-33.6750612,150.912359,115041625,Rouse Hill - Beaumont Hills,Rouse Hill - McGraths Hill,Sydney - Baulkham Hills and Hawkesbury,New South Wales
+Rozelle,-33.8655271,151.1765796,120021389,Lilyfield - Rozelle,Leichhardt,Sydney - Inner West,New South Wales
+Rydalmere,-33.8095529,151.0341685,125021477,Ermington - Rydalmere,Carlingford,Sydney - Parramatta,New South Wales
+Seven Hills,-33.7666302,150.9569224,116011307,Lalor Park - Kings Langley,Blacktown,Sydney - Blacktown,New South Wales
+Shellharbour,-34.5726,150.8155,107031137,Albion Park Rail,Kiama - Shellharbour,Illawarra,New South Wales
+Singleton,-32.5436,151.1484,106011112,Singleton,Lower Hunter,Hunter Valley exc Newcastle,New South Wales
+Smithfield,-33.8460879,150.9547776,125031486,Smithfield Industrial,Merrylands - Guildford,Sydney - Parramatta,New South Wales
+Tamworth,-31.0885229,150.9079129,110041204,Tamworth - West,Tamworth - Gunnedah,New England and North West,New South Wales
+Taree,-31.8914868,152.4461265,108051169,Taree,Taree - Gloucester,Mid North Coast,New South Wales
+Thornleigh,-33.7290761,151.0828967,121021406,Normanhurst - Thornleigh - Westleigh,Hornsby,Sydney - North Sydney and Hornsby,New South Wales
+Tuggerah,-33.311177,151.4213037,102021055,Tuggerah - Kangy Angy,Wyong,Central Coast,New South Wales
+Tweed Heads,-28.2045578,153.5374649,112031552,Tweed Heads South,Tweed Valley,Richmond - Tweed,New South Wales
+Ulladulla,-35.3632865,150.4695943,114011282,Ulladulla,Shoalhaven,Southern Highlands and Shoalhaven,New South Wales
+Umina Beach,-33.5218641,151.3198597,102011040,Umina - Booker Bay - Patonga,Gosford,Central Coast,New South Wales
+Valley Heights,-33.7016713,150.5810064,124011454,Springwood - Winmalee,Blue Mountains,Sydney - Outer West and Blue Mountains,New South Wales
+Villawood,-33.87815,150.9789091,125031480,Fairfield - East,Merrylands - Guildford,Sydney - Parramatta,New South Wales
+Wagga Wagga,-35.1207966,147.3423688,113031270,Wagga Wagga - West,Wagga Wagga,Riverina,New South Wales
+Wallsend,-32.8974722,151.6739573,111031233,Wallsend - Elermore Vale,Newcastle,Newcastle and Lake Macquarie,New South Wales
+West Gosford,-33.4292753,151.3193063,102011032,Gosford - Springfield,Gosford,Central Coast,New South Wales
+Young,-34.3118,148.2881,101061543,Young,Young - Yass,Capital Region,New South Wales
+Alice Springs,-23.6701,133.8686,702011045,Charles,Alice Springs,Northern Territory - Outback,Northern Territory
+Darwin,-12.4013011,130.8573935,701011001,Darwin Airport,Darwin City,Darwin,Northern Territory
+Palmerston,-12.4703747,130.991873,701041041,Palmerston - North,Palmerston,Darwin,Northern Territory
+Acacia Ridge,-27.5965814,153.0353091,303051076,Rocklea - Acacia Ridge,Rocklea - Acacia Ridge,Brisbane - South,Queensland
+Airlie Beach,-20.276,148.694,312031359,Airlie - Whitsundays,Whitsunday,Mackay - Isaac - Whitsunday,Queensland
+Arundel,-27.9335408,153.3787829,309031235,Arundel,Gold Coast - North,Gold Coast,Queensland
+Atherton,-17.2657,145.4801,306051166,Atherton,Tablelands (East) - Kuranda,Cairns,Queensland
+Bethania,-27.7035211,153.1568606,311051323,Bethania - Waterford,Loganlea - Carbrook,Logan - Beaudesert,Queensland
+Brendale,-27.3157676,152.9652192,314031394,Strathpine - Brendale,Strathpine,Moreton Bay - South,Queensland
+Browns Plains,-27.6623484,153.0444846,311031312,Browns Plains,Browns Plains,Logan - Beaudesert,Queensland
+Bundaberg,-24.8899186,152.3247662,319011494,Branyan - Kensington,Bundaberg,Wide Bay,Queensland
+Bundamba,-27.6096267,152.8050845,310031284,Bundamba,Ipswich Inner,Ipswich,Queensland
+Burleigh Waters,-28.0999344,153.4269981,309011226,Burleigh Waters,Broadbeach - Burleigh,Gold Coast,Queensland
+Caboolture,-27.0437637,152.9759779,313021572,Caboolture - East,Caboolture,Moreton Bay - North,Queensland
+Cairns,-16.9342379,145.7735946,306021154,Westcourt - Bungalow,Cairns - South,Cairns,Queensland
+Caloundra,-26.7962082,153.10496,316021580,Caloundra West - Baringa,Caloundra,Sunshine Coast,Queensland
+Cannon Hill,-27.4733202,153.0972226,303011048,Cannon Hill,Carindale,Brisbane - South,Queensland
+Capalaba,-27.5221767,153.1887323,301011004,Capalaba,Capalaba,Brisbane - East,Queensland
+Carseldine,-27.3337,153.0101,302011022,Bald Hills,Bald Hills - Everton Park,Brisbane - North,Queensland
+Dalby,-27.1978852,151.2757342,307021183,Wambo,Darling Downs - East,Darling Downs - Maranoa,Queensland
+Fairfield Waters,-19.3162,146.8208,318021487,Oonoonba,Townsville,Townsville,Queensland
+Gladstone,-23.8774216,151.2254046,308051533,Clinton - New Auckland,Gladstone,Central Queensland,Queensland
+Gympie,-26.2233,152.69131,319031512,Gympie - North,Gympie - Cooloola,Wide Bay,Queensland
+Hervey Bay,-25.29047,152.8396553,319041518,Pialba - Eli Waters,Hervey Bay,Wide Bay,Queensland
+Indooroopilly,-27.5009457,152.9761358,304031094,Indooroopilly,Sherwood - Indooroopilly,Brisbane - West,Queensland
+Innisfail,-17.5248,146.0275,306031159,Innisfail,Innisfail - Cassowary Coast,Cairns,Queensland
+Kawana,-23.3397605,150.5091632,308031215,Parkhurst - Kawana,Rockhampton,Central Queensland,Queensland
+Keperra,-27.419585,152.9493933,304041100,Keperra,The Gap - Enoggera,Brisbane - West,Queensland
+Kingaroy,-26.5583945,151.8401563,319021505,Kingaroy,Burnett,Wide Bay,Queensland
+Lawnton,-27.2879639,152.9853672,314031392,Lawnton,Strathpine,Moreton Bay - South,Queensland
+Loganholme,-27.6882,153.1895,311051325,Loganholme - Tanah Merah,Loganlea - Carbrook,Logan - Beaudesert,Queensland
+Mackay North,-21.0963,149.1558,312021348,Mount Pleasant - Glenella,Mackay,Mackay - Isaac - Whitsunday,Queensland
+Manly West,-27.4686371,153.1530954,301031016,Manly West,Wynnum - Manly,Brisbane - East,Queensland
+Maroochydore,-26.6648237,153.0845156,316031427,Maroochydore - Kuluin,Maroochy,Sunshine Coast,Queensland
+Maryborough,-25.5361768,152.6962789,319051524,Maryborough (Qld),Maryborough,Wide Bay,Queensland
+Mermaid Waters,-28.0473762,153.408196,309011228,Mermaid Waters,Broadbeach - Burleigh,Gold Coast,Queensland
+Morayfield,-27.113691,152.9501136,313021366,Caboolture - South,Caboolture,Moreton Bay - North,Queensland
+Mt Gravatt,-27.5307359,153.073577,303031063,Mount Gravatt,Mt Gravatt,Brisbane - South,Queensland
+Logan Rd Mt Gravatt,-27.5307359,153.073577,303031063,Mount Gravatt,Mt Gravatt,Brisbane - South,Queensland
+Mt Isa,-20.744,139.4909,315021405,Mount Isa,Outback - North,Queensland - Outback,Queensland
+Nerang,-28.0070393,153.3396421,309061247,Highland Park,Nerang,Gold Coast,Queensland
+Newstead,-27.4431289,153.0433852,305031128,Newstead - Bowen Hills,Brisbane Inner - North,Brisbane Inner City,Queensland
+Noosaville,-26.4109387,153.0423493,316051435,Noosaville,Noosa,Sunshine Coast,Queensland
+North Lakes,-27.2119988,152.9971094,314021579,North Lakes,North Lakes,Moreton Bay - South,Queensland
+Oxenford,-27.8875626,153.3121497,309071256,Oxenford - Maudsland,Ormeau - Oxenford,Gold Coast,Queensland
+Oxley,-27.5674083,152.9810881,310011275,Oxley (Qld),Forest Lake - Oxley,Ipswich,Queensland
+Paget Mackay,-21.1684852,149.1563452,312021350,Ooralea - Bakers Creek,Mackay,Mackay - Isaac - Whitsunday,Queensland
+Pimpama,-27.8220042,153.2942834,309071555,Pimpama - South,Ormeau - Oxenford,Gold Coast,Queensland
+Plainland,-27.5628382,152.42608,310021280,Lockyer Valley - East,Ipswich Hinterland,Ipswich,Queensland
+Robina,-28.085024,153.38968,309081559,Robina - East,Robina,Gold Coast,Queensland
+Rockhampton,-23.32951,150.5199442,308031213,Norman Gardens,Rockhampton,Central Queensland,Queensland
+Rocklea,-27.5552851,153.0116655,303051076,Rocklea - Acacia Ridge,Rocklea - Acacia Ridge,Brisbane - South,Queensland
+Rothwell,-27.218615,153.0644358,313051380,Rothwell - Kippa-Ring,Redcliffe,Moreton Bay - North,Queensland
+Smithfield,-16.8409112,145.6949002,306011142,Trinity Beach - Smithfield,Cairns - North,Cairns,Queensland
+Southport,-27.9608,153.3801,309091540,Southport - North,Southport,Gold Coast,Queensland
+Springfield Central,-27.6760293,152.8981482,310041304,Springfield Lakes,Springfield - Redbank,Ipswich,Queensland
+Stafford,-27.4102568,153.009118,302021032,Stafford,Chermside,Brisbane - North,Queensland
+Toowoomba North,-27.5523818,151.9536625,317011456,Toowoomba - Central,Toowoomba,Toowoomba,Queensland
+Toowoomba West,-27.5868,151.9154,317011447,Drayton - Harristown,Toowoomba,Toowoomba,Queensland
+Townsville,-19.2792816,146.7568836,318021475,Garbutt - West End,Townsville,Townsville,Queensland
+Townsville North,-19.2272,146.7324,318021484,Mount Louisa,Townsville,Townsville,Queensland
+Underwood,-27.6189444,153.1124502,311061335,Underwood,Springwood - Kingston,Logan - Beaudesert,Queensland
+Victoria Point,-27.5852048,153.2834246,301021013,Victoria Point,Cleveland - Stradbroke,Brisbane - East,Queensland
+Virginia,-27.3725785,153.0610143,302031038,Northgate - Virginia,Nundah,Brisbane - North,Queensland
+Warwick,-28.2134598,152.0374372,307031189,Warwick,Granite Belt,Darling Downs - Maranoa,Queensland
+West Ipswich,-27.6163263,152.7499261,310031286,Ipswich - Central,Ipswich Inner,Ipswich,Queensland
+Yeppoon,-23.139249,150.7410522,308031223,Yeppoon,Rockhampton,Central Queensland,Queensland
+Adelaide Airport,-34.93407,138.5355417,404031104,Adelaide Airport,West Torrens,Adelaide - West,South Australia
+Berri,-34.2605618,140.6130242,407031160,Berri,Murray and Mallee,South Australia - South East,South Australia
+Edwardstown,-34.9854834,138.5735858,403021058,Edwardstown,Marion,Adelaide - South,South Australia
+Gawler,-34.5978,138.7478,402011026,Gawler - South,Gawler - Two Wells,Adelaide - North,South Australia
+Kent Town,-34.9193806,138.6197365,401051017,Norwood (SA),Norwood - Payneham - St Peters,Adelaide - Central and Hills,South Australia
+Marion,-35.0163,138.5442,403021064,Warradale,Marion,Adelaide - South,South Australia
+Mile End,-34.9329944,138.5755286,404031108,Richmond (SA),West Torrens,Adelaide - West,South Australia
+Modbury,-34.8327,138.6942,402051052,Hope Valley - Modbury,Tea Tree Gully,Adelaide - North,South Australia
+Mt Barker,-35.0892,138.8754,401021007,Mount Barker,Adelaide Hills,Adelaide - Central and Hills,South Australia
+Mt Gambier,-37.8058991,140.7932419,407021173,Mount Gambier - East,Limestone Coast,South Australia - South East,South Australia
+Munno Para West,-34.6592,138.653,402021032,Munno Para West - Angle Vale,Playford,Adelaide - North,South Australia
+Murray Bridge,-35.1288331,139.2583163,407031165,Murray Bridge,Murray and Mallee,South Australia - South East,South Australia
+Noarlunga,-35.1810794,138.4938965,403041177,Seaford - Seaford Meadows,Onkaparinga,Adelaide - South,South Australia
+Parafield,-34.7926148,138.6442832,402041042,Parafield,Salisbury,Adelaide - North,South Australia
+Port Augusta,-32.4800126,137.7508733,406021142,Port Augusta,Outback - North and East,South Australia - Outback,South Australia
+Port Lincoln,-34.7315592,135.8610607,406011133,Port Lincoln,Eyre Peninsula and South West,South Australia - Outback,South Australia
+Prospect,-34.8736265,138.5822543,401061021,Prospect,Prospect - Walkerville,Adelaide - Central and Hills,South Australia
+Reynella,-35.0974314,138.5457129,403041086,Reynella,Onkaparinga,Adelaide - South,South Australia
+Seaford,-35.1764,138.4842,403041177,Seaford - Seaford Meadows,Onkaparinga,Adelaide - South,South Australia
+Victor Harbor,-35.5362,138.6375,407011148,Victor Harbor,Fleurieu - Kangaroo Island,South Australia - South East,South Australia
+Windsor Gardens,-34.8640428,138.6481026,402031038,Windsor Gardens,Port Adelaide - East,Adelaide - North,South Australia
+Woodville,-34.8748977,138.5295321,404011097,Woodville - Cheltenham,Charles Sturt,Adelaide - West,South Australia
+Burnie,-41.0638344,145.9143845,604011077,Burnie - Wivenhoe,Burnie - Ulverstone,West and North West,Tasmania
+Devonport,-41.1928513,146.339467,604021088,Miandetta - Don,Devonport,West and North West,Tasmania
+Glenorchy,-42.8309325,147.2870368,601031017,Glenorchy,Hobart - North West,Hobart,Tasmania
+Kings Meadows,-41.4807519,147.1541649,602011037,Kings Meadows - Punchbowl,Launceston,Launceston and North East,Tasmania
+Kingston,-42.9852006,147.2927984,601041022,Kingston - Huntingfield,Hobart - South and West,Hobart,Tasmania
+Mornington,-42.8619576,147.3922663,601021009,Mornington - Warrane,Hobart - North East,Hobart,Tasmania
+North Launceston,-41.4295,147.1308,602011036,Invermay,Launceston,Launceston and North East,Tasmania
+Altona,-37.8456229,144.8437314,213021343,Altona North,Hobsons Bay,Melbourne - West,Victoria
+Bairnsdale,-37.8359947,147.6041332,205021081,Bairnsdale,Gippsland - East,Latrobe - Gippsland,Victoria
+Ballarat,-37.5918608,143.8081048,201011006,Delacombe,Ballarat,Ballarat,Victoria
+Bayswater,-37.8303746,145.2798282,211031263,Bayswater North,Maroondah,Melbourne - Outer East,Victoria
+Bendigo,-36.8086842,144.242824,202011022,Kangaroo Flat - Golden Square,Bendigo,Bendigo,Victoria
+Box Hill,-37.8365162,145.1334285,207031163,Box Hill,Whitehorse - West,Melbourne - Inner East,Victoria
+Broadmeadows,-37.6754621,144.9206631,210051242,Broadmeadows,Tullamarine - Broadmeadows,Melbourne - North West,Victoria
+Brunswick,-37.7676014,144.9615723,206011496,Brunswick - South,Brunswick - Coburg,Melbourne - Inner,Victoria
+Caroline Springs,-37.76032,144.74473,213041359,Rockbank - Mount Cottrell,Melton - Bacchus Marsh,Melbourne - West,Victoria
+Carrum Downs,-38.0955108,145.1740083,214011370,Carrum Downs,Frankston,Mornington Peninsula,Victoria
+Chadstone,-37.8775077,145.0929395,212051319,Ashwood - Chadstone,Monash,Melbourne - South East,Victoria
+Clyde North,-38.0923928,145.3338976,212031556,Clyde North - South,Casey - South,Melbourne - South East,Victoria
+Coburg,-37.7323047,144.960096,210031236,Coburg North,Moreland - North,Melbourne - North West,Victoria
+Colac,-38.3415576,143.5914787,217031472,Colac,Colac - Corangamite,Warrnambool and South West,Victoria
+Collingwood,-37.8090658,144.9900523,206071141,Collingwood,Yarra,Melbourne - Inner,Victoria
+Craigieburn,-37.5818838,144.9418138,210051442,Craigieburn - North,Tullamarine - Broadmeadows,Melbourne - North West,Victoria
+Cranbourne,-38.0836155,145.279073,212031300,Cranbourne,Casey - South,Melbourne - South East,Victoria
+Croydon,-37.7897,145.2826,211031451,Croydon - West,Maroondah,Melbourne - Outer East,Victoria
+Dandenong,-38.005015,145.250583,212041564,Dandenong - South,Dandenong,Melbourne - South East,Victoria
+Delacombe,-37.5918608,143.8081048,201011006,Delacombe,Ballarat,Ballarat,Victoria
+Doncaster,-37.7870068,145.1284088,207021157,Doncaster,Manningham - West,Melbourne - Inner East,Victoria
+East Pakenham,-38.0838,145.516,212011551,Pakenham - South East,Cardinia,Melbourne - South East,Victoria
+Echuca,-36.1416433,144.7573257,216011406,Echuca,Campaspe,Shepparton,Victoria
+Eltham,-37.7178392,145.1407716,209031209,Eltham,Nillumbik - Kinglake,Melbourne - North East,Victoria
+Epping,-37.6481775,145.004309,209041432,Epping - South,Whittlesea - Wallan,Melbourne - North East,Victoria
+Epsom,-36.711303,144.3135415,202011025,White Hills - Ascot,Bendigo,Bendigo,Victoria
+Fairfield,-37.7726,145.026,206021110,Alphington - Fairfield,Darebin - South,Melbourne - Inner,Victoria
+Frankston,-38.1501382,145.1358755,214011371,Frankston,Frankston,Mornington Peninsula,Victoria
+Geelong North,-38.0975,144.3536,203021488,Norlane,Geelong,Geelong,Victoria
+Hamilton,-37.745,142.025,217011421,Hamilton (Vic.),Glenelg - Southern Grampians,Warrnambool and South West,Victoria
+Hastings,-38.2857622,145.185774,214021379,Hastings - Somers,Mornington Peninsula,Mornington Peninsula,Victoria
+Hawthorn,-37.8225699,145.0314186,207011520,Hawthorn - South,Boroondara,Melbourne - Inner East,Victoria
+Hoppers Crossing,-37.8752601,144.7133085,213051361,Hoppers Crossing - North,Wyndham,Melbourne - West,Victoria
+Horsham,-36.7162883,142.2015706,215011388,Horsham,Grampians,North West,Victoria
+Keysborough,-37.9899824,145.1470003,212041565,Keysborough - North,Dandenong,Melbourne - South East,Victoria
+Leopold,-38.1845835,144.4523652,203021044,Leopold,Geelong,Geelong,Victoria
+Lilydale,-37.7576047,145.3475508,211051278,Lilydale - Coldstream,Yarra Ranges,Melbourne - Outer East,Victoria
+Manor Lakes,-37.8722404,144.6107093,213051590,Wyndham Vale - South,Wyndham,Melbourne - West,Victoria
+Maribyrnong,-37.7760475,144.8837459,213031347,Braybrook,Maribyrnong,Melbourne - West,Victoria
+Melton East,-37.6871,144.5828,213041577,Melton,Melton - Bacchus Marsh,Melbourne - West,Victoria
+Mentone,-37.9768027,145.0696103,208031190,Mentone,Kingston,Melbourne - Inner South,Victoria
+Mernda,-37.6044904,145.0932464,209041532,Mernda - South,Whittlesea - Wallan,Melbourne - North East,Victoria
+Mildura,-34.2176471,142.1511405,215021470,Mildura - South,Mildura,North West,Victoria
+Mill Park,-37.6544737,145.0803259,209041220,Mill Park - North,Whittlesea - Wallan,Melbourne - North East,Victoria
+Moorabbin,-37.9455852,145.0797236,208031191,Moorabbin - Heatherton,Kingston,Melbourne - Inner South,Victoria
+Mornington,-38.2195561,145.0593715,214021591,Mornington - East,Mornington Peninsula,Mornington Peninsula,Victoria
+Morwell,-38.2367709,146.427375,205041096,Morwell,Latrobe Valley,Latrobe - Gippsland,Victoria
+Narre Warren,-38.0248869,145.3098332,212021456,Narre Warren - South West,Casey - North,Melbourne - South East,Victoria
+Notting Hill,-37.9002496,145.1269707,212051567,Clayton (North) - Notting Hill,Monash,Melbourne - South East,Victoria
+Nunawading,-37.8196599,145.1668266,211041271,Nunawading,Whitehorse - East,Melbourne - Outer East,Victoria
+Oakleigh,-37.9220542,145.0851083,212051326,Oakleigh - Huntingdale,Monash,Melbourne - South East,Victoria
+Pakenham,-38.0614592,145.4574309,212011550,Pakenham - North West,Cardinia,Melbourne - South East,Victoria
+Portland,-38.3259722,141.5982248,217011422,Portland,Glenelg - Southern Grampians,Warrnambool and South West,Victoria
+Port Melbourne,-37.8314656,144.93911,206051511,Port Melbourne Industrial,Port Phillip,Melbourne - Inner,Victoria
+Preston,-37.7474321,145.0310068,209021428,Preston - East,Darebin - North,Melbourne - North East,Victoria
+Ringwood,-37.8154898,145.2229003,211031266,Ringwood,Maroondah,Melbourne - Outer East,Victoria
+Rosebud,-38.3860085,144.8871931,214021384,Rosebud - McCrae,Mornington Peninsula,Mornington Peninsula,Victoria
+Sale,-38.1058196,147.0632559,205051103,Sale,Wellington,Latrobe - Gippsland,Victoria
+Scoresby,-37.8999,145.2285,211011254,Knoxfield - Scoresby,Knox,Melbourne - Outer East,Victoria
+Seymour,-37.0270292,145.1418796,204011059,Seymour,Upper Goulburn Valley,Hume,Victoria
+Shepparton,-36.3880115,145.4217509,216031594,Shepparton - South East,Shepparton,Shepparton,Victoria
+Springvale,-37.932314,145.1532676,212041317,Springvale,Dandenong,Melbourne - South East,Victoria
+Sunbury,-37.5904566,144.7161067,210041540,Sunbury - South,Sunbury,Melbourne - North West,Victoria
+Sunshine,-37.7758522,144.8302214,213011337,Sunshine North,Brimbank,Melbourne - West,Victoria
+Swan Hill,-35.3342847,143.5560109,215031404,Swan Hill,Murray River - Swan Hill,North West,Victoria
+Tarneit,-37.8334325,144.6981199,213051584,Tarneit - North,Wyndham,Melbourne - West,Victoria
+Taylors Lakes,-37.6957834,144.7798316,213011340,Taylors Lakes,Brimbank,Melbourne - West,Victoria
+Thomastown,-37.693157,145.0229006,209041223,Thomastown,Whittlesea - Wallan,Melbourne - North East,Victoria
+Torquay,-38.3082981,144.318312,203031053,Torquay,Surf Coast - Bellarine Peninsula,Geelong,Victoria
+Traralgon,-38.191556,146.5606911,205041493,Traralgon - East,Latrobe Valley,Latrobe - Gippsland,Victoria
+Vermont South,-37.8602784,145.1968373,211041273,Vermont South,Whitehorse - East,Melbourne - Outer East,Victoria
+Wangaratta,-36.3659097,146.3011322,204021066,Wangaratta,Wangaratta - Benalla,Hume,Victoria
+Warragul,-38.1667,145.9547689,205011079,Warragul,Baw Baw,Latrobe - Gippsland,Victoria
+Warrnambool,-38.3834379,142.5321131,217041480,Warrnambool - South,Warrnambool,Warrnambool and South West,Victoria
+Waurn Ponds,-38.2035404,144.3064271,203021487,Grovedale - Mount Duneed,Geelong,Geelong,Victoria
+West Footscray,-37.8028912,144.8831814,213031351,West Footscray - Tottenham,Maribyrnong,Melbourne - West,Victoria
+Wodonga,-36.1371567,146.9065051,204031492,Wodonga,Wodonga - Alpine,Hume,Victoria
+Wonthaggi,-38.5956652,145.5930871,205031093,Wonthaggi - Inverloch,Gippsland - South West,Latrobe - Gippsland,Victoria
+Yarrawonga,-36.0122205,146.0261529,216021414,Yarrawonga,Moira,Shepparton,Victoria
+Albany,-34.9893529,117.8775963,509011225,Albany,Albany,Western Australia - Wheat Belt,Western Australia
+Armadale,-32.1260053,115.86827,507011260,Jandakot,Cockburn,Perth - South West,Western Australia
+Australind,-33.2807916,115.7447732,501021005,Australind - Leschenault,Bunbury,Bunbury,Western Australia
+Balcatta,-31.8602455,115.8128589,505021084,Balcatta - Hamersley,Stirling,Perth - North West,Western Australia
+Baldivis,-32.3310747,115.8191088,507051312,Baldivis - North,Rockingham,Perth - South West,Western Australia
+Bayswater,-31.9031909,115.921666,504011045,Bayswater - Embleton - Bedford,Bayswater - Bassendean,Perth - North East,Western Australia
+Belmont,-31.9570405,115.9313871,506021118,Belmont - Ascot - Redcliffe,Belmont - Victoria Park,Perth - South East,Western Australia
+Bibra Lake,-32.1026854,115.7998612,507011150,Bibra Industrial,Cockburn,Perth - South West,Western Australia
+Broome,-17.9640237,122.2228775,510011262,Broome,Kimberley,Western Australia - Outback (North),Western Australia
+Bunbury,-33.3336883,115.6459841,501021253,South Bunbury - Bunbury,Bunbury,Bunbury,Western Australia
+Busselton,-33.6669,115.3505,501011293,Busselton - East,Augusta - Margaret River - Busselton,Bunbury,Western Australia
+Cannington,-32.0224188,115.9410498,506031127,Cannington - Queens Park,Canning,Perth - South East,Western Australia
+Claremont,-31.9824441,115.7824093,503011031,Claremont (WA),Cottesloe - Claremont,Perth - Inner,Western Australia
+Cockburn Central,-32.1246,115.8673,507011260,Jandakot,Cockburn,Perth - South West,Western Australia
+East Victoria Park,-31.9922278,115.911263,506021119,East Victoria Park - Carlisle,Belmont - Victoria Park,Perth - South East,Western Australia
+Ellenbrook,-31.7770037,115.9625155,504031300,Ellenbrook,Swan,Perth - North East,Western Australia
+Esperance,-33.8385856,121.90077,511011274,Esperance,Esperance,Western Australia - Outback (South),Western Australia
+Geraldton,-28.7602309,114.6234825,511041285,Geraldton,Mid West,Western Australia - Outback (South),Western Australia
+Halls Head,-32.5478916,115.7041898,502011024,Halls Head - Erskine,Mandurah,Mandurah,Western Australia
+Harrisdale,-32.1069179,115.9363609,506011307,Harrisdale,Armadale,Perth - South East,Western Australia
+Homebase Subiaco,-31.9427,115.8217,503021042,Subiaco - Shenton Park,Perth City,Perth - Inner,Western Australia
+Innaloo,-31.9008711,115.7968002,505021088,Innaloo - Doubleview,Stirling,Perth - North West,Western Australia
+Joondalup,-31.7592436,115.7721136,505011077,Joondalup - Edgewater,Joondalup,Perth - North West,Western Australia
+Kalamunda,-31.9711329,116.0577317,506051140,Kalamunda - Maida Vale - Gooseberry Hill,Kalamunda,Perth - South East,Western Australia
+Kalgoorlie,-30.7521573,121.4812773,511031279,Kalgoorlie,Goldfields,Western Australia - Outback (South),Western Australia
+Maddington,-32.0464503,115.97708,506041136,Maddington - Orange Grove - Martin,Gosnells,Perth - South East,Western Australia
+Mandurah,-32.5478916,115.7041898,502011024,Halls Head - Erskine,Mandurah,Mandurah,Western Australia
+Margaret River,-33.9614304,115.0719892,501011004,Margaret River,Augusta - Margaret River - Busselton,Bunbury,Western Australia
+Melville,-32.0401,115.8239,507041178,Booragoon,Melville,Perth - South West,Western Australia
+Midland,-31.8990984,116.0128145,504031066,Midland - Guildford,Swan,Perth - North East,Western Australia
+Mindarie,-31.6928,115.7169,505031101,Clarkson,Wanneroo,Perth - North West,Western Australia
+Mirrabooka,-31.8625805,115.8769573,505021085,Balga - Mirrabooka,Stirling,Perth - North West,Western Australia
+Northam,-31.6601,116.6698,509021243,Northam,Wheat Belt - North,Western Australia - Wheat Belt,Western Australia
+O'Connor,-32.0633261,115.7970796,507021167,O'Connor (WA),Fremantle,Perth - South West,Western Australia
+Osborne Park,-31.9015,115.8146,505021091,Osborne Park Industrial,Stirling,Perth - North West,Western Australia
+Rockingham,-32.2683135,115.7532698,507051188,Rockingham,Rockingham,Perth - South West,Western Australia
+Wangara,-31.8034,115.8366,505031305,Madeley - Darch,Wanneroo,Perth - North West,Western Australia
+Willetton,-32.0394123,115.8794126,506031131,Willetton,Canning,Perth - South East,Western Australia
