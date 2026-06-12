@@ -1,4 +1,4 @@
-# Bunnings National Expansion Model — Phase 0b
+# Bunnings National Expansion Model 
 
 Predicting suitable locations for new Bunnings Warehouse stores across Australia using public ABS Census demographics and competitor geography, with a held-out validation on Adelaide.
 
@@ -8,7 +8,7 @@ Predicting suitable locations for new Bunnings Warehouse stores across Australia
 
 Phase 0a modelled Bunnings locations in **Adelaide only**: 105 SA2s with just **14 stores**. With so few positives, feature-importance estimates were statistically fragile and model comparison was meaningless (cross-validation folds held ~3 positives each).
 
-**Phase 0b:** learn the drivers of Bunnings location *nationally*, where ~292 positives give the statistics real power, then validate that the learned relationships transfer back to Adelaide — a city the model never trains on.
+** learn the drivers of Bunnings location *nationally*, where ~292 positives give the statistics real power, then validate that the learned relationships transfer back to Adelaide — a city the model never trains on.
 
 If a model trained on the rest of Australia can correctly identify Adelaide's actual Bunnings locations, the feature relationships are genuinely transferable, which is the entire commercial value of a location model.
 
@@ -43,7 +43,6 @@ If a model trained on the rest of Australia can correctly identify Adelaide's ac
 ### The national model beat the local model — blind
 
 | Model | Trained on | Adelaide ROC-AUC |
-|---|---|---|
 | Phase 0a Random Forest | Adelaide only (14 positives) | 0.790 |
 | **Phase 0b XGBoost** | **Rest of Australia (never saw Adelaide)** | **0.805** |
 
