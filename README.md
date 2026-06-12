@@ -26,9 +26,9 @@ Project structure
 
 The repository is organized in folders that reflect the project's evolution:
 
-Phase 0b — National Expansion Model ⭐ (most recent, the centerpiece)
+Phase 0b — National Expansion Model (most recent, the centerpiece)
 
-Folder: Bunnings suburb selection/ (or whichever folder name you used)
+Folder: Bunnings suburb selection
 
 Trains an XGBoost model on the rest of Australia (2,129 SA2s, 279 positives), validates blind on Adelaide (102 SA2s, 13 positives). Compared 8 model families via 5-fold cross-validation on PR-AUC (the right metric for top-of-list ranking on imbalanced data), tuned the winner with GridSearchCV (405 model fits), and held Adelaide out completely until final scoring.
 
